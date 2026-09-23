@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "PyDiffChron"
+type: software
+
+authors:
+  - family-names: "Bastías-Silva"
+    given-names: "Joaquín"
+  - family-names: "Kent"
+    given-names: "Adam J. R."
+  - family-names: "Caricchi"
+    given-names: "Luca"
+
+repository-code: "https://github.com/JoaquinBastias/PyDiffChron"
+license: "MIT"
+
+abstract: >-
+  PyDiffChron contains the numerical calculations and figure-generation
+  workflows developed to investigate uncertainty and temperature-time
+  non-uniqueness in diffusion chronometry using synthetic Ba and Sr
+  concentration profiles in plagioclase.
+
+keywords:
+  - diffusion chronometry
+  - geochronology
+  - igneous petrology
+  - plagioclase
+  - barium
+  - strontium
+  - numerical modelling
